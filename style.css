@@ -253,6 +253,7 @@ h5{
     color: #fcfc;
     font-size: 16px;
     line-height: 27px;
+    margin-bottom: 1.2rem;
 }
 .card .button{
     background-color: #f9004d;
@@ -293,6 +294,7 @@ h5{
     font-weight: bold;
     padding: 13px 30px;
     border-radius: 30px;
+    
     transition: .4s;
 }
 .button-two:hover{
@@ -307,6 +309,7 @@ h5{
 }
 .boxp{
             display: flex;
+            flex-wrap: wrap;
                 justify-content: center;
                 align-items: center;
                 min-height: 400px;
